@@ -13,9 +13,17 @@
 
 ## 참가 인원
 
-|[이민우](https://github.com/Spring-Trash/lmw)|김규현|[김제영](https://github.com/Spring-Trash/JeyoungHW)|[유지웅](https://github.com/Spring-Trash/YJW_HW)|윤주석|[이병헌](https://github.com/Spring-Trash/lbhHomework)|[김영욱](https://github.com/Spring-Trash/YoungUkHomeWork)|[장청룡](https://github.com/Spring-Trash/ryong-spring-trash)|[최은비](https://github.com/Spring-Trash/rloldl)| [한규준](https://github.com/Spring-Trash/Mr_Noin)|[신온유](https://github.com/Spring-Trash/onyu_spring)
-|---|---|---|---|---|---|---|---|---|---|---|
-|![민우햄](https://avatars.githubusercontent.com/Leeminw)|![김규현](https://avatars.githubusercontent.com/kgh2120)|![김제영](https://avatars.githubusercontent.com/kjy0349)|![유지웅](https://avatars.githubusercontent.com/yeogeru)|![윤주석](https://avatars.githubusercontent.com/AMIVAYUN)|![이병헌](https://avatars.githubusercontent.com/Hunnibs)| ![김영욱](https://avatars.githubusercontent.com/YoungUk0126)|![장청룡](https://avatars.githubusercontent.com/wkdcjdfyd)|![최은비](https://avatars.githubusercontent.com/rloldl-c)| ![한규준](https://avatars.githubusercontent.com/cbnu2017038040)|![신온유](https://avatars.githubusercontent.com/tlsdhsdb)
+|[이민우](https://github.com/Spring-Trash/lmw)|
+|---|
+|<img style="width:150px" src = "https://avatars.githubusercontent.com/Leeminw"/>|
+
+|[김규현](https://github.com/Spring-Trash/qhyun-is-trash)|[김제영](https://github.com/Spring-Trash/JeyoungHW)|[신온유](https://github.com/Spring-Trash/onyu_spring)|[유지웅](https://github.com/Spring-Trash/YJW_HW)|윤주석|[이병헌](https://github.com/Spring-Trash/lbhHomework)|
+|---|---|---|---|---|---|
+|<img style="width:150px" src = "https://avatars.githubusercontent.com/kgh2120"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/kjy0349"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/tlsdhsdb"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/yeogeru"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/AMIVAYUN"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/Hunnibs"/>|
+
+|[김영욱](https://github.com/Spring-Trash/YoungUkHomeWork)|[장청룡](https://github.com/Spring-Trash/ryong-spring-trash)|[최은비](https://github.com/Spring-Trash/rloldl)| [한규준](https://github.com/Spring-Trash/Mr_Noin)|
+|---|---|---|---|
+|<img style="width:150px" src = "https://avatars.githubusercontent.com/YoungUk0126"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/wkdcjdfyd"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/rloldl-c"/>| <img style="width:150px" src = "https://avatars.githubusercontent.com/cbnu2017038040"/>|
 
 
 
