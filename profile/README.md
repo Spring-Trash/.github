@@ -15,15 +15,15 @@
 
 |[이민우](https://github.com/Spring-Trash/lmw)|
 |---|
-|<img style="width:150px" src = "https://avatars.githubusercontent.com/Leeminw"/>|
+|<img style="width:100px" src = "https://avatars.githubusercontent.com/Leeminw"/>|
 
 |[김규현](https://github.com/Spring-Trash/qhyun-is-trash)|[김제영](https://github.com/Spring-Trash/JeyoungHW)|[신온유](https://github.com/Spring-Trash/onyu_spring)|[유지웅](https://github.com/Spring-Trash/YJW_HW)|윤주석|[이병헌](https://github.com/Spring-Trash/lbhHomework)|
 |---|---|---|---|---|---|
-|<img style="width:150px" src = "https://avatars.githubusercontent.com/kgh2120"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/kjy0349"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/tlsdhsdb"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/yeogeru"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/AMIVAYUN"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/Hunnibs"/>|
+|<img style="width:100px" src = "https://avatars.githubusercontent.com/kgh2120"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/kjy0349"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/tlsdhsdb"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/yeogeru"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/AMIVAYUN"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/Hunnibs"/>|
 
 |[김영욱](https://github.com/Spring-Trash/YoungUkHomeWork)|[장청룡](https://github.com/Spring-Trash/ryong-spring-trash)|[최은비](https://github.com/Spring-Trash/rloldl)| [한규준](https://github.com/Spring-Trash/Mr_Noin)|
 |---|---|---|---|
-|<img style="width:150px" src = "https://avatars.githubusercontent.com/YoungUk0126"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/wkdcjdfyd"/>|<img style="width:150px" src = "https://avatars.githubusercontent.com/rloldl-c"/>| <img style="width:150px" src = "https://avatars.githubusercontent.com/cbnu2017038040"/>|
+|<img style="width:100px" src = "https://avatars.githubusercontent.com/YoungUk0126"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/wkdcjdfyd"/>|<img style="width:100px" src = "https://avatars.githubusercontent.com/rloldl-c"/>| <img style="width:100px" src = "https://avatars.githubusercontent.com/cbnu2017038040"/>|
 
 
 
